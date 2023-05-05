@@ -1,8 +1,8 @@
 # Mobile Apps 1 Project
 
-- Student Name: Your name
-- Student ID: 123456
-- Course: Your course
+- Student Name: Daphyne da Maia
+- Student ID: 24945
+- Course: BSC2
 
 ## Requirement Checklist
 
