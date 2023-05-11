@@ -59,5 +59,5 @@ After deadline I got some other features working and found some mistakes that I 
 ## APK Releases
 
 1. Add your release name and update this [link](https://youtu.be/pkUbyuKSdEA)
-2. Add your release name and update this [link]([https://youtu.be/pkUbyuKSdEA](https://youtu.be/Y9647EQh41g)
-3. Add your release name and update this [link]([[https://youtu.be/pkUbyuKSdEA](https://youtu.be/Y9647EQh41g](https://youtu.be/T37qnQ2UW8I))
+2. Add your release name and update this [link](https://youtu.be/Y9647EQh41g)
+3. Add your release name and update this [link](https://youtu.be/T37qnQ2UW8I)
